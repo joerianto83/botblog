@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bot Blog</title>
+    <link>http://localhost:1313/joerianto83/botblog/</link>
+    <description>Recent content on Bot Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Nov 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/joerianto83/botblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with ARM Template Specs</title>
+      <link>http://localhost:1313/joerianto83/botblog/posts/arm-template-specs/</link>
+      <pubDate>Fri, 07 Nov 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/joerianto83/botblog/posts/arm-template-specs/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;ARM Template Specs provide a way to store and share Azure Resource Manager (ARM) templates in your Azure subscription. This makes it easier to manage and deploy infrastructure as code across your organization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-template-specs&#34;&gt;What are Template Specs?&lt;/h2&gt;&#xA;&lt;p&gt;Template Specs are a resource type in Azure that allows you to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Store ARM templates as Azure resources&lt;/li&gt;&#xA;&lt;li&gt;Version your templates&lt;/li&gt;&#xA;&lt;li&gt;Share templates across subscriptions&lt;/li&gt;&#xA;&lt;li&gt;Control access using Azure RBAC&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;creating-a-template-spec&#34;&gt;Creating a Template Spec&lt;/h2&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a simple example of creating a template spec using Azure CLI:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
