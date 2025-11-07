@@ -1,4 +1,4 @@
-baseURL = "https://github.com/joerianto83/botblog"
+baseURL = "/"
 languageCode = "en-us"
 title = "Bot Blog"
 theme = "ananke"

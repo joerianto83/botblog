@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/joerianto83/botblog/tags/arm-templates/</loc>
+    <loc>//localhost:50666/</loc>
+    <lastmod>2025-11-07T15:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:50666/posts/</loc>
+    <lastmod>2025-11-07T15:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:50666/tags/arm-templates/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/tags/azure/</loc>
+    <loc>//localhost:50666/tags/azure/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/</loc>
+    <loc>//localhost:50666/categories/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/categories/</loc>
+    <loc>//localhost:50666/categories/cloud/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/categories/cloud/</loc>
+    <loc>//localhost:50666/posts/arm-template-specs/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/posts/arm-template-specs/</loc>
+    <loc>//localhost:50666/tags/infrastructure-as-code/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/tags/infrastructure-as-code/</loc>
-    <lastmod>2025-11-07T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/posts/</loc>
-    <lastmod>2025-11-07T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/joerianto83/botblog/tags/</loc>
+    <loc>//localhost:50666/tags/</loc>
     <lastmod>2025-11-07T10:00:00+00:00</lastmod>
   </url>
 </urlset>
