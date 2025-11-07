@@ -8,11 +8,16 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "keywords": ["blog", "bot", "automation", "ai", "express"],
+  "keywords": [
+    "blog",
+    "bot",
+    "automation",
+    "ai",
+    "express"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^2.2.0",
     "express": "^5.1.0"
   },
   "devDependencies": {

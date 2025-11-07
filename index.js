@@ -1,10 +1,9 @@
 const express = require('express');
-const bodyParser = require('body-parser');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(express.static('public'));
 
 // In-memory storage for blog posts
